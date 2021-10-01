@@ -6,6 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 abcvnvnvnvvnvnvn
 change
 change 2
+change 3
 class Answer extends Model
 {
     public function question(){
