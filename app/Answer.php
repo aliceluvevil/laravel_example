@@ -3,7 +3,7 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-
+abcvnvnvnvvnvnvn
 class Answer extends Model
 {
     public function question(){
