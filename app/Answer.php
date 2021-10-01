@@ -5,6 +5,7 @@ namespace App;
 use Illuminate\Database\Eloquent\Model;
 abcvnvnvnvvnvnvn
 change
+change 2
 class Answer extends Model
 {
     public function question(){
